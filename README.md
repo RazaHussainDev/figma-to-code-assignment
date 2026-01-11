@@ -1,3 +1,6 @@
+## 🔗 Live Preview
+[Click here to view the live project](https://razahussaindev.github.io/figma-to-code-assignment/)
+
 # Figma to Code Assignment
 
 ## Learning Objective
